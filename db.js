@@ -1,0 +1,86 @@
+const menu = [
+  {
+    id: 1,
+    FoodName: "Cheese paratha",
+    foodimg: "images/b1.jpg",
+    price: "$ 15.99",
+    category: "breakFast",
+    des: "These cheese flatbreads make for a wholesome breakfast or brunch. There are many many varieties of paratha made and this is one such tasty paratha which the kids are going to love.",
+  },
+
+  {
+    id: 2,
+    FoodName: "Egg Paratha",
+    foodimg: "images/b3.jpg",
+    price: "$ 17.50",
+    category: "breakFast",
+    des: "Egg paratha recipe — easy breakfast, brunch or dinner recipe that is protein rich, healthy and tasty. Egg paratha is a kids' favorite, so i make it often for their after school snack. To make egg paratha, you can use ready paratha, roti or frozen paratha as well.",
+  },
+  {
+    id: 3,
+    FoodName: "Daal Chawal",
+    foodimg: "images/l1.jpg",
+    price: "$ 20.99",
+    category: "Lunch",
+    des: "The most fascinating, fabulously fantastic and simple lightweight Pakistan’s most favorite dish, Daal Chawal Recipe (Daal Rice) is here at Sooperchef.pk. It’s simple, fast and delicious Pakistani Recipe.",
+  },
+  {
+    id: 4,
+    FoodName: "Pakal Paneer",
+    foodimg: "images/l2.jpg",
+    price: "$ 18",
+    category: "Lunch",
+    des: "Palak Paneer is a popular Indian dish of Indian cottage cheese cubes in a mild, spiced smooth spinach sauce. This delicious creamy dish is made with fresh spinach leaves, paneer (firm cottage cheese), onions, tomatoes, herbs and spices.",
+  },
+  {
+    id: 5,
+    FoodName: "Aloo Ghobi",
+    foodimg: "images/b2.jpg",
+    price: "$ 21",
+    category: "Lunch",
+    des: "Aloo Gobi ki Sabzi is a classic Pakistani dish of Potatoes and Cauliflower cooked in savory spices and garnished with chillies and cilantro.",
+  },
+  {
+    id: 6,
+    FoodName: "Aloo Goshat",
+    foodimg: "images/l4.jpg",
+    price: "$ 23",
+    category: "Lunch",
+    des: "Aloo Gosht is a spicy, thick and creamy meat gravy that originates from Pakistani and North Indian cuisine.This gravy has potatoes cooked with lamb or mutton in a thick stew.",
+  },
+
+  {
+    id: 7,
+    FoodName: "Banana Shakes",
+    foodimg: "images/s1.jpg",
+    price: "$ 15",
+    category: "Shakes",
+    des: "You need less than five minutes to make this easy banana smoothie. Use our simple recipe on it’s own or use it as a base for other smoothies.",
+  },
+  {
+    id: 8,
+    FoodName: "Mango Shakes",
+    foodimg: "images/s2.jpg",
+    price: "$ 15",
+    category: "Shakes",
+    des: "Mango shake is a cool and tempting fruit drink prepared by simply blending ripe mango pieces, milk and sugar. To keep things simple and easy, this recipe primarily explains how to make mango shake with milk.",
+  },
+
+  {
+    id: 9,
+    FoodName: "Biryani",
+    foodimg: "images/d1.jpg",
+    price: "$ 24.50",
+    category: "Dinner",
+    des: "Biryani is a mixed rice dish originating among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and meat, and sometimes, in addition, eggs and/or vegetables such as potatoes in certain regional varieties.",
+  },
+  {
+    id: 10,
+    FoodName: "Korma",
+    foodimg: "images/d2.jpg",
+    price: "$ 30",
+    category: "Dinner",
+    des: "Korma is a gravy dish that is usually made with yogurt, lots of nuts and spices. A Mughal era original, Chicken Korma is the perfect dinner party dish that is easy, quick and a no fuss recipe.",
+  },
+];
+export default menu;
